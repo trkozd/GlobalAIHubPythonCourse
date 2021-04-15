@@ -20,5 +20,5 @@ Some python libraries
 ---
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+![](img/turker-globalaihub-python-certificate.png)
 
